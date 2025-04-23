@@ -8,4 +8,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 
 | Date       | Problem | Link | Solution |
 |------------|---------|------|----------|
-| April 23   | Group Anagrams | [🔗](https://leetcode.com/problems/count-largest-group) | `Array`, `Hashtable` |
+| April 23   | Count-Largest-Group | [🔗](https://leetcode.com/problems/count-largest-group) | `Array`, `Hashtable` |
