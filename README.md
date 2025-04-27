@@ -12,4 +12,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | April 24   | Count Complete Subarrays in an Array | [🔗](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | `sliding window`, `Hashmap` |
 | April 25   | Count of Interesting Subarrays | [🔗](https://leetcode.com/problems/count-of-interesting-subarrays) | `Prefix Sum`, `Hashmap` |
 | April 26   | Furthest building you can reach | [🔗](https://leetcode.com/problems/furthest-building-you-can-reach) | `Priority queue` |
-| April 27   | Count Subarrays of length three with a condition | [🔗]((https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition)) | `loop` |
+| April 27   | Count Subarrays of length three with a condition | [🔗](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | `loop` |
