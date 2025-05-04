@@ -18,3 +18,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | April 30   | Find Numbers with Even Number of Digits | [🔗](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | 'String Conversion','Recursion'|
 | May 01   | Maximum Number of Tasks You Can Assign | [🔗](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign)  | 'Binary Search','Greedy'|
 | May 02   | Push Dominoes | [🔗](https://leetcode.com/problems/push-dominoes)  | 'Two Pointers'|
+| May 03   | Number of Equivalent Domino Pairs | [🔗](https://leetcode.com/problems/number-of-equivalent-domino-pairs)  | 'Hashmap'|
