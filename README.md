@@ -20,3 +20,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 02   | Push Dominoes | [🔗](https://leetcode.com/problems/push-dominoes)  | 'Two Pointers'|
 | May 04   | Number of Equivalent Domino Pairs | [🔗](https://leetcode.com/problems/number-of-equivalent-domino-pairs)  | 'Hashmap'|
 | May 05   | Domino and Tromino Tiling | [🔗](https://leetcode.com/problems/domino-and-tromino-tiling) | 'Recursion'|
+| May 06   | Build array from permutation | [🔗](https://leetcode.com/problems/build-array-from-permutation) | 'simulation'|
