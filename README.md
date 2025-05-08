@@ -22,3 +22,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 05   | Domino and Tromino Tiling | [🔗](https://leetcode.com/problems/domino-and-tromino-tiling) | 'Recursion'|
 | May 06   | Build array from permutation | [🔗](https://leetcode.com/problems/build-array-from-permutation) | 'simulation'|
 | May 07   | Find-minimum-time-to-reach-last-room-i | [🔗](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | 'graph'|
+| May 08   | Find-minimum-time-to-reach-last-room-ii | [🔗](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | 'graph'|
