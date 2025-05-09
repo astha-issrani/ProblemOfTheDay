@@ -23,3 +23,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 06   | Build array from permutation | [🔗](https://leetcode.com/problems/build-array-from-permutation) | 'simulation'|
 | May 07   | Find-minimum-time-to-reach-last-room-i | [🔗](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i) | 'graph'|
 | May 08   | Find-minimum-time-to-reach-last-room-ii | [🔗](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | 'graph'|
+| May 09   | count-number-of-balanced-permutations | [🔗](https://leetcode.com/problems/count-number-of-balanced-permutations) | 'math','DP'|
