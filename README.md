@@ -25,3 +25,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 08   | Find-minimum-time-to-reach-last-room-ii | [🔗](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii) | 'graph'|
 | May 09   | count-number-of-balanced-permutations | [🔗](https://leetcode.com/problems/count-number-of-balanced-permutations) | 'math','DP'|
 | May 11   | three consecutive odds | [🔗](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11) | 'Bit Manipulation','Array'|
+| May 12   | finding-3-digit-even-numbers | [🔗](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-11) | 'nested loop'|
