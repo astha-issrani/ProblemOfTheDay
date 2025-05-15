@@ -1,4 +1,4 @@
-# LeetCode Daily Problem of the Day (POTD) 🚀
+3# LeetCode Daily Problem of the Day (POTD) 🚀
 
 Keeping track of my daily LeetCode progress. This helps with consistency and learning!
 
@@ -26,3 +26,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 09   | count-number-of-balanced-permutations | [🔗](https://leetcode.com/problems/count-number-of-balanced-permutations) | 'math','DP'|
 | May 11   | three consecutive odds | [🔗](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2025-05-11) | 'Bit Manipulation','Array'|
 | May 12   | finding-3-digit-even-numbers | [🔗](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-11) | 'nested loop'|
+| May 15   | longest-unequal-adjacent-groups-subsequence-i |[🔗](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15) | 'two pointers'|
