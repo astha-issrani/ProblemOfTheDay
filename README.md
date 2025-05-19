@@ -28,3 +28,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 12   | finding-3-digit-even-numbers | [🔗](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=daily-question&envId=2025-05-11) | 'nested loop'|
 | May 15   | longest-unequal-adjacent-groups-subsequence-i |[🔗](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/description/?envType=daily-question&envId=2025-05-15) | 'two pointers'|
 | May 18   | painting-a-grid-with-three-different-colors |[🔗](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/?envType=daily-question&envId=2025-05-18) | 'DP'|
+| May 19   | Type of Triangle |[🔗](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19) | 'set','array','math'|
