@@ -31,3 +31,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 19   | Type of Triangle |[🔗](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19) | 'set','array','math'|
 | May 20   | zero-array-transformation-i |[🔗](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20) | 'prefix sum'|
 | May 21   | set-matrix-zeroes |[🔗](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=daily-question&envId=2025-05-21) | 'hashset'|
+| May 22  | zero-array-transformation-iii |[🔗](https://leetcode.com/problems/zero-array-transformation-iii/submissions/1641258499/?envType=daily-question&envId=2025-05-22 ) | 'greedy','priority queue'|
