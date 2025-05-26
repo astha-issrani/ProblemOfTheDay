@@ -35,3 +35,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 23  | find-the-maximum-sum-of-node-values |[🔗](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/description/?envType=daily-question&envId=2025-05-23 ) | 'DP'|
 | May 24  | find-words-containing-character |[🔗]( https://leetcode.com/problems/find-words-containing-character/submissions/1642852465/?envType=daily-question&envId=2025-05-24) | 'using count','loop'|
 | May 25  | longest-palindrome-by-concatenating-two-letter-words |[🔗]( https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/description/?envType=daily-question&envId=2025-05-25) | 'greedy'|
+| May 26  | largest-color-value-in-a-directed-graph |[🔗]( https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/?envType=daily-question&envId=2025-05-26) | 'graph'|
