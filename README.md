@@ -39,3 +39,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 27  | divisible and non-divisible sums difference |[🔗]( https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27) | 'math'|
 | May 28  | maximize-the-number-of-target-nodes-after-connecting-trees-i|[🔗]( https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/?envType=daily-question&envId=2025-05-28) | 'dfs'|
 | May 29  | maximize-the-number-of-target-nodes-after-connecting-trees-ii |[🔗]( https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/?envType=daily-question&envId=2025-05-29) | 'dfs'|
+| May 30  | find-closest-node-to-given-two-nodes |[🔗]( https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30) | 'double dfs'|
