@@ -41,3 +41,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 29  | maximize-the-number-of-target-nodes-after-connecting-trees-ii |[🔗]( https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/?envType=daily-question&envId=2025-05-29) | 'dfs'|
 | May 30  | find-closest-node-to-given-two-nodes |[🔗]( https://leetcode.com/problems/find-closest-node-to-given-two-nodes/description/?envType=daily-question&envId=2025-05-30) | 'double dfs'|
 | May 31  | snakes and ladders |[🔗]( https://leetcode.com/problems/snakes-and-ladders/submissions/1649932516/?envType=daily-question&envId=2025-05-31) | 'bfs'|
+| June 1  | distribute-candies-among-children-ii |[🔗]( https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01) | 'math'|
