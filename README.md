@@ -43,3 +43,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | May 31  | snakes and ladders |[🔗]( https://leetcode.com/problems/snakes-and-ladders/submissions/1649932516/?envType=daily-question&envId=2025-05-31) | 'bfs'|
 | June 1  | distribute-candies-among-children-ii |[🔗]( https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01) | 'math'|
 | June 2  | candy |[🔗](https://leetcode.com/problems/candy/submissions/1651805564/?envType=daily-question&envId=2025-06-02) | 'greedy'|
+| June 3  | maximum-candies-you-can-get-from-boxes |[🔗](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/?envType=daily-question&envId=2025-06-03) | 'bfs'|
