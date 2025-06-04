@@ -44,3 +44,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 1  | distribute-candies-among-children-ii |[🔗]( https://leetcode.com/problems/distribute-candies-among-children-ii/description/?envType=daily-question&envId=2025-06-01) | 'math'|
 | June 2  | candy |[🔗](https://leetcode.com/problems/candy/submissions/1651805564/?envType=daily-question&envId=2025-06-02) | 'greedy'|
 | June 3  | maximum-candies-you-can-get-from-boxes |[🔗](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/?envType=daily-question&envId=2025-06-03) | 'bfs'|
+| June 4  | find-the-lexicographically-largest-string-from-the-box-i |[🔗](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/submissions/1653486964/?envType=daily-question&envId=2025-06-04) | 'string'|
