@@ -49,3 +49,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 6  | using-a-robot-to-print-the-lexicographically-smallest-string |[🔗](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/description/?envType=daily-question&envId=2025-06-06) | 'greedy'|
 | June 7  | lexicographically-minimum-string-after-removing-stars |[🔗](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07) | 'hashtable','string'|
 | June 8  | lexicographical-numbers |[🔗](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2025-06-08) | 'dfs'|
+| June 9  |  |[🔗](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2025-06-09) | 'recursion'|
