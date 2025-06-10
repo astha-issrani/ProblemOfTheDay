@@ -50,3 +50,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 7  | lexicographically-minimum-string-after-removing-stars |[🔗](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/description/?envType=daily-question&envId=2025-06-07) | 'hashtable','string'|
 | June 8  | lexicographical-numbers |[🔗](https://leetcode.com/problems/lexicographical-numbers/description/?envType=daily-question&envId=2025-06-08) | 'dfs'|
 | June 9  |  |[🔗](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/?envType=daily-question&envId=2025-06-09) | 'recursion'|
+| June 10  |  |[🔗](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10) | 'max odd, min even'|
