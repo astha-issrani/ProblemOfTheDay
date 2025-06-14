@@ -54,3 +54,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 11  | maximum-difference-between-even-and-odd-frequency-ii |[🔗](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/description/?envType=daily-question&envId=2025-06-11) | 'sliding window'|
 | June 12  | maximum-difference-between-adjacent-elements-in-a-circular-array |[🔗](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/submissions/1662041258/?envType=daily-question&envId=2025-06-12) | 'greedy'|
 | June 13  | minimize-the-maximum-difference-of-pairs |[🔗](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/?envType=daily-question&envId=2025-06-13) | 'greedy'|
+| June 14  | maximum-difference-by-remapping-a-digit |[🔗](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14) | 'math'|
