@@ -56,3 +56,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 13  | minimize-the-maximum-difference-of-pairs |[🔗](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/?envType=daily-question&envId=2025-06-13) | 'greedy'|
 | June 14  | maximum-difference-by-remapping-a-digit |[🔗](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/description/?envType=daily-question&envId=2025-06-14) | 'math'|
 | June 15  | max-difference-you-can-get-from-changing-an-integer |[🔗](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15) | 'greedy'|
+| June 16  | maximum-difference-between-increasing-elements |[🔗](https://leetcode.com/problems/maximum-difference-between-increasing-elements/?envType=daily-question&envId=2025-06-16) | 'min-max'|
