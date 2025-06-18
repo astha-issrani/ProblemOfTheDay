@@ -58,3 +58,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 15  | max-difference-you-can-get-from-changing-an-integer |[🔗](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/?envType=daily-question&envId=2025-06-15) | 'greedy'|
 | June 16  | maximum-difference-between-increasing-elements |[🔗](https://leetcode.com/problems/maximum-difference-between-increasing-elements/?envType=daily-question&envId=2025-06-16) | 'min-max'|
 | June 17  | count-the-number-of-arrays-with-k-matching-adjacent-elements |[🔗](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/?envType=daily-question&envId=2025-06-17) | 'Number Theory'|
+| June 18  | divide-array-into-arrays-with-max-difference |[🔗](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/submissions/1668340856/?envType=daily-question&envId=2025-06-18) | 'two pointers'|
