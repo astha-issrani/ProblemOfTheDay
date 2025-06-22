@@ -61,3 +61,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 18  | divide-array-into-arrays-with-max-difference |[🔗](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/submissions/1668340856/?envType=daily-question&envId=2025-06-18) | 'two pointers'|
 | June 19  | partition-array-such-that-maximum-difference-is-k |[🔗](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/submissions/1669024150/?envType=daily-question&envId=2025-06-19) | 'greedy'|
 | June 21  | minimum-deletions-to-make-string-k-special |[🔗](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21) | 'greedy'|
+| June 22  | divide-a-string-into-groups-of-size-k |[🔗](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/?envType=daily-question&envId=2025-06-22) | 'string division algo'|
