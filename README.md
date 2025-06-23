@@ -62,3 +62,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 19  | partition-array-such-that-maximum-difference-is-k |[🔗](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/submissions/1669024150/?envType=daily-question&envId=2025-06-19) | 'greedy'|
 | June 21  | minimum-deletions-to-make-string-k-special |[🔗](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21) | 'greedy'|
 | June 22  | divide-a-string-into-groups-of-size-k |[🔗](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/?envType=daily-question&envId=2025-06-22) | 'string division algo'|
+| June 23  | sum-of-k-mirror-numbers |[🔗](https://leetcode.com/problems/sum-of-k-mirror-numbers/submissions/1673649221/?envType=daily-question&envId=2025-06-23) | 'math'|
