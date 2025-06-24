@@ -63,3 +63,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 21  | minimum-deletions-to-make-string-k-special |[🔗](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/description/?envType=daily-question&envId=2025-06-21) | 'greedy'|
 | June 22  | divide-a-string-into-groups-of-size-k |[🔗](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/?envType=daily-question&envId=2025-06-22) | 'string division algo'|
 | June 23  | sum-of-k-mirror-numbers |[🔗](https://leetcode.com/problems/sum-of-k-mirror-numbers/submissions/1673649221/?envType=daily-question&envId=2025-06-23) | 'math'|
+| June 24  | find-all-k-distant-indices-in-an-array |[🔗](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/submissions/1674929829/?envType=daily-question&envId=2025-06-24) | 'two pointers'|
