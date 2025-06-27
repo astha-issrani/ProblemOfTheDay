@@ -66,3 +66,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 24  | find-all-k-distant-indices-in-an-array |[🔗](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/submissions/1674929829/?envType=daily-question&envId=2025-06-24) | 'two pointers'|
 | June 25  | kth-smallest-product-of-two-sorted-arrays |[🔗](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/?envType=daily-question&envId=2025-06-25) | 'binary search'|
 | June 26  | longest-binary-subsequence-less-than-or-equal-to-k |[🔗](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26) | 'greedy'|
+| June 27  | longest-subsequence-repeated-k-times |[🔗](https://leetcode.com/problems/longest-subsequence-repeated-k-times/submissions/1678543641/?envType=daily-question&envId=2025-06-27) | 'greedy'|
