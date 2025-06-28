@@ -67,3 +67,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 25  | kth-smallest-product-of-two-sorted-arrays |[🔗](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/?envType=daily-question&envId=2025-06-25) | 'binary search'|
 | June 26  | longest-binary-subsequence-less-than-or-equal-to-k |[🔗](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/description/?envType=daily-question&envId=2025-06-26) | 'greedy'|
 | June 27  | longest-subsequence-repeated-k-times |[🔗](https://leetcode.com/problems/longest-subsequence-repeated-k-times/submissions/1678543641/?envType=daily-question&envId=2025-06-27) | 'greedy'|
+| June 28  | find-subsequence-of-length-k-with-the-largest-sum |[🔗](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28) | 'array'|
