@@ -69,3 +69,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | June 27  | longest-subsequence-repeated-k-times |[🔗](https://leetcode.com/problems/longest-subsequence-repeated-k-times/submissions/1678543641/?envType=daily-question&envId=2025-06-27) | 'greedy'|
 | June 28  | find-subsequence-of-length-k-with-the-largest-sum |[🔗](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28) | 'array'|
 | June 29  | number-of-subsequences-that-satisfy-the-given-sum-condition |[🔗](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/?envType=daily-question&envId=2025-06-29) | 'two pointers'|
+| June 30  | longest-harmonious-subsequence |[🔗](http://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=daily-question&envId=2025-06-30) | 'hashmap'|
