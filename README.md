@@ -73,3 +73,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 01  | find-the-original-typed-string-i |[🔗](https://leetcode.com/problems/find-the-original-typed-string-i/?envType=daily-question&envId=2025-07-01) | 
 | July 02  | find-the-original-typed-string-ii |[🔗](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02) | 
 | July 03  | find-the-k-th-character-in-string-game-i |[🔗](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03) | 
+| July 04  | find-the-k-th-character-in-string-game-ii |[🔗](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04) | 
