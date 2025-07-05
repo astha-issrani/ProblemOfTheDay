@@ -74,3 +74,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 02  | find-the-original-typed-string-ii |[🔗](https://leetcode.com/problems/find-the-original-typed-string-ii/description/?envType=daily-question&envId=2025-07-02) | 
 | July 03  | find-the-k-th-character-in-string-game-i |[🔗](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=daily-question&envId=2025-07-03) | 
 | July 04  | find-the-k-th-character-in-string-game-ii |[🔗](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/description/?envType=daily-question&envId=2025-07-04) | 
+| July 05  | find-lucky-integer-in-an-array |[🔗](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1687037526/?envType=daily-question&envId=2025-07-05) | 
