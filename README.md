@@ -79,3 +79,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 07  | maximum-number-of-events-that-can-be-attended |[🔗](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/?envType=daily-question&envId=2025-07-07) | 
 | July 08  | maximum-number-of-events-that-can-be-attended-ii |[🔗](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/submissions/1691197466/?envType=daily-question&envId=2025-07-08) |
 | July 09  | reschedule-meetings-for-maximum-free-time-i |[🔗](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/submissions/1692240224/?envType=daily-question&envId=2025-07-09) |
+| July 10  | reschedule-meetings-for-maximum-free-time-ii |[🔗](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/submissions/1693471605/?envType=daily-question&envId=2025-07-10) |
