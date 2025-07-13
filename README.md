@@ -81,3 +81,5 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 09  | reschedule-meetings-for-maximum-free-time-i |[🔗](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/submissions/1692240224/?envType=daily-question&envId=2025-07-09) |
 | July 10  | reschedule-meetings-for-maximum-free-time-ii |[🔗](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/submissions/1693471605/?envType=daily-question&envId=2025-07-10) |
 | July 11  | meeting-rooms-iii |[🔗](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2025-07-11) |
+| July 12  | the-earliest-and-latest-rounds-where-players-compete |[🔗](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/?envType=daily-question&envId=2025-07-12) |
+| July 13  | maximum-matching-of-players-with-trainers |[🔗](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/submissions/1696585932/?envType=daily-question&envId=2025-07-13) |
