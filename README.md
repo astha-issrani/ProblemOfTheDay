@@ -83,3 +83,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 11  | meeting-rooms-iii |[🔗](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2025-07-11) |
 | July 12  | the-earliest-and-latest-rounds-where-players-compete |[🔗](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/?envType=daily-question&envId=2025-07-12) |
 | July 13  | maximum-matching-of-players-with-trainers |[🔗](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/submissions/1696585932/?envType=daily-question&envId=2025-07-13) |
+| July 14  | convert-binary-number-in-a-linked-list-to-integer |[🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=daily-question&envId=2025-07-14) |
