@@ -85,3 +85,5 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 13  | maximum-matching-of-players-with-trainers |[🔗](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/submissions/1696585932/?envType=daily-question&envId=2025-07-13) |
 | July 14  | convert-binary-number-in-a-linked-list-to-integer |[🔗](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=daily-question&envId=2025-07-14) |
 | July 15  | valid-word |[🔗](https://leetcode.com/problems/valid-word/?envType=daily-question&envId=2025-07-15) |
+| July 16  | find-the-maximum-length-of-valid-subsequence-i |[🔗](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/submissions/1701433204/?envType=daily-question&envId=2025-07-16) |
+| July 17  | find-the-maximum-length-of-valid-subsequence-ii |[🔗](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/submissions/1701433204/?envType=daily-question&envId=2025-07-17) |
