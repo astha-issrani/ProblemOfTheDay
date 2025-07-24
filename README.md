@@ -88,3 +88,5 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 16  | find-the-maximum-length-of-valid-subsequence-i |[🔗](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/submissions/1701433204/?envType=daily-question&envId=2025-07-16) |
 | July 17  | find-the-maximum-length-of-valid-subsequence-ii |[🔗](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/submissions/1701433204/?envType=daily-question&envId=2025-07-17) |
 | July 18  | minimum-difference-in-sums-after-removal-of-elements |[🔗](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/submissions/1701938759/?envType=daily-question&envId=2025-07-18) |
+/*BROKE MY STREAK.. UGH!*/
+| July 24  | minimum-score-after-removals-on-a-tree |[🔗](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/?envType=daily-question&envId=2025-07-24) |
