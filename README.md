@@ -91,3 +91,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 /*BROKE MY STREAK.. UGH! SOME TINGS HAPPEN IN OUR LIFE WHICH OUR OUT OF OUR CONTROL.. ANYWAY, WE GOTTA FIGHT BACK AND RISE LIKE A PHOENIX*/
 | July 24  | minimum-score-after-removals-on-a-tree |[🔗](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/?envType=daily-question&envId=2025-07-24) |
 | July 25  | maximum-unique-subarray-sum-after-deletion |[🔗](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/?envType=daily-question&envId=2025-07-25) |
+| July 26  | maximize-subarrays-after-removing-one-conflicting-pair |[🔗](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/?envType=daily-question&envId=2025-07-26) |
