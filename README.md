@@ -94,3 +94,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | July 26  | maximize-subarrays-after-removing-one-conflicting-pair |[🔗](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/description/?envType=daily-question&envId=2025-07-26) |
 | 27 july | count-hills-and-valleys-in-an-array | [🔗](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/description/?envType=daily-question&envId=2025-07-27) |
 | 28 july | count-number-of-maximum-bitwise-or-subsets | [🔗](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=daily-question&envId=2025-07-28) |
+| 29 july | smallest-subarrays-with-maximum-bitwise-or | [🔗](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/description/?envType=daily-question&envId=2025-07-29) |
