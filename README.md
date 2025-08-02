@@ -98,3 +98,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 30 July | longest-subarray-with-maximum-bitwise-and | [🔗](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/description/?envType=daily-question&envId=2025-07-30) |
 | 31 July | bitwise-ors-of-subarrays | [🔗](https://leetcode.com/problems/bitwise-ors-of-subarrays) |
 | 01 Aug | pascals-triangle | [🔗](https://leetcode.com/problems/pascals-triangle/?envType=daily-question&envId=2025-08-01) |
+| 02 Aug | rearranging-fruits | [🔗](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02) |
