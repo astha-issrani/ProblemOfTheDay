@@ -99,3 +99,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 31 July | bitwise-ors-of-subarrays | [🔗](https://leetcode.com/problems/bitwise-ors-of-subarrays) |
 | 01 Aug | pascals-triangle | [🔗](https://leetcode.com/problems/pascals-triangle/?envType=daily-question&envId=2025-08-01) |
 | 02 Aug | rearranging-fruits | [🔗](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02) |
+| 03 Aug | maximum-fruits-harvested-after-at-most-k-steps | [🔗](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03) |
