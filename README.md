@@ -101,3 +101,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 02 Aug | rearranging-fruits | [🔗](https://leetcode.com/problems/rearranging-fruits/description/?envType=daily-question&envId=2025-08-02) |
 | 03 Aug | maximum-fruits-harvested-after-at-most-k-steps | [🔗](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/?envType=daily-question&envId=2025-08-03) |
 | 04 Aug | fruit-into-baskets | [🔗](https://leetcode.com/problems/fruit-into-baskets/description/?envType=daily-question&envId=2025-08-04) |
+| 05 Aug | fruits-into-basket-ii | [🔗](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) |
