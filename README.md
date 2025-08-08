@@ -103,3 +103,5 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 04 Aug | fruit-into-baskets | [🔗](https://leetcode.com/problems/fruit-into-baskets/description/?envType=daily-question&envId=2025-08-04) |
 | 05 Aug | fruits-into-basket-ii | [🔗](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05) |
 | 06 Aug | find-the-maximum-number-of-fruits-collected | [🔗](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07) |
+| 07 Aug | find-the-maximum-number-of-fruits-collected | [🔗](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07) |
+| 08 Aug | soup-servings | [🔗](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) |
