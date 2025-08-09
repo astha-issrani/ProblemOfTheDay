@@ -105,3 +105,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 06 Aug | find-the-maximum-number-of-fruits-collected | [🔗](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07) |
 | 07 Aug | find-the-maximum-number-of-fruits-collected | [🔗](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/description/?envType=daily-question&envId=2025-08-07) |
 | 08 Aug | soup-servings | [🔗](https://leetcode.com/problems/soup-servings/description/?envType=daily-question&envId=2025-08-08) |
+| 09 Aug | power-of-two | [🔗](https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09) |
