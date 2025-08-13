@@ -108,3 +108,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 09 Aug | power-of-two | [🔗](https://leetcode.com/problems/power-of-two/?envType=daily-question&envId=2025-08-09) |
 | 10 Aug | reordered-power-of-2 | [🔗](https://leetcode.com/problems/reordered-power-of-2/description/?envType=daily-question&envId=2025-08-10) |
 | 11 Aug | ways-to-express-an-integer-as-sum-of-powers | [🔗](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/description/?envType=daily-question&envId=2025-08-12) |
+| 13 Aug | power-of-three | [🔗](https://leetcode.com/problems/power-of-three/?envType=daily-question&envId=2025-08-13) |
