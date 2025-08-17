@@ -112,3 +112,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 14 Aug | largest-3-same-digit-number-in-string | [🔗](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14) |
 | 15 Aug | power-of-four | [🔗](https://leetcode.com/problems/power-of-four/description/?envType=daily-question&envId=2025-08-15) |
 | 16 Aug | maximum-69-number | [🔗](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16) |
+| 17 Aug | new-21-game | [🔗](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) |
