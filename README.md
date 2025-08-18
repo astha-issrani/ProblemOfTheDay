@@ -113,3 +113,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 15 Aug | power-of-four | [🔗](https://leetcode.com/problems/power-of-four/description/?envType=daily-question&envId=2025-08-15) |
 | 16 Aug | maximum-69-number | [🔗](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16) |
 | 17 Aug | new-21-game | [🔗](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) |
+| 18 Aug | 24-game | [🔗](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18) |
