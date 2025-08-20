@@ -115,3 +115,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 17 Aug | new-21-game | [🔗](https://leetcode.com/problems/new-21-game/description/?envType=daily-question&envId=2025-08-17) |
 | 18 Aug | 24-game | [🔗](https://leetcode.com/problems/24-game/description/?envType=daily-question&envId=2025-08-18) |
 | 19 Aug | number-of-zero-filled-subarrays | [🔗](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19) |
+| 20 Aug | count-square-submatrices-with-all-ones | [🔗](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) |
