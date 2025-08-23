@@ -118,3 +118,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 20 Aug | count-square-submatrices-with-all-ones | [🔗](https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-20) |
 | 21 Aug | count-submatrices-with-all-ones | [🔗](https://leetcode.com/problems/count-submatrices-with-all-ones/description/?envType=daily-question&envId=2025-08-21) |
 | 22 Aug | find-the-minimum-area-to-cover-all-ones-i | [🔗](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22) |
+| 23 Aug | find-the-minimum-area-to-cover-all-ones-ii | [🔗](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23) |
