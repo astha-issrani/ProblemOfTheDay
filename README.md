@@ -120,3 +120,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 22 Aug | find-the-minimum-area-to-cover-all-ones-i | [🔗](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22) |
 | 23 Aug | find-the-minimum-area-to-cover-all-ones-ii | [🔗](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23) |
 | 24 Aug | longest-subarray-of-1s-after-deleting-one-element | [🔗](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24) |
+| 25 Aug | diagonal-traverse | [🔗](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) |
