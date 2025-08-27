@@ -122,3 +122,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 24 Aug | longest-subarray-of-1s-after-deleting-one-element | [🔗](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24) |
 | 25 Aug | diagonal-traverse | [🔗](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) |
 | 26 Aug | maximum-area-of-longest-diagonal-rectangle | [🔗](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26) |
+| 27 Aug | length-of-longest-v-shaped-diagonal-segment | [🔗](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27) |
