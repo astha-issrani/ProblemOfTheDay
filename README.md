@@ -123,3 +123,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 25 Aug | diagonal-traverse | [🔗](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25) |
 | 26 Aug | maximum-area-of-longest-diagonal-rectangle | [🔗](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26) |
 | 27 Aug | length-of-longest-v-shaped-diagonal-segment | [🔗](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27) |
+| 28 Aug | sort-matrix-by-diagonals | [🔗](https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28) |
