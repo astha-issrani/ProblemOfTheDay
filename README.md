@@ -1,4 +1,4 @@
-3# LeetCode Daily Problem of the Day (POTD) 🚀
+LeetCode Daily Problem of the Day (POTD) 🚀
 
 Keeping track of my daily LeetCode progress. This helps with consistency and learning!
 
@@ -125,3 +125,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 27 Aug | length-of-longest-v-shaped-diagonal-segment | [🔗](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/description/?envType=daily-question&envId=2025-08-27) |
 | 28 Aug | sort-matrix-by-diagonals | [🔗](https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28) |
 | 30 Aug | valid-sudoku | [🔗](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30) |
+| 02 sept | find-the-number-of-ways-to-place-people-i | [🔗](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02) |
