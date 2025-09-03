@@ -126,3 +126,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 28 Aug | sort-matrix-by-diagonals | [🔗](https://leetcode.com/problems/sort-matrix-by-diagonals/?envType=daily-question&envId=2025-08-28) |
 | 30 Aug | valid-sudoku | [🔗](https://leetcode.com/problems/valid-sudoku/description/?envType=daily-question&envId=2025-08-30) |
 | 02 sept | find-the-number-of-ways-to-place-people-i | [🔗](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02) |
+| 03 sept | find-the-number-of-ways-to-place-people-ii | [🔗](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/?envType=daily-question&envId=2025-09-03) |
