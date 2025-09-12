@@ -132,3 +132,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 09 sept | number-of-people-aware-of-a-secret | [🔗](https://leetcode.com/problems/number-of-people-aware-of-a-secret/description/?envType=daily-question&envId=2025-09-09) |
 | 10 sept | minimum-number-of-people-to-teach | [🔗](https://leetcode.com/problems/minimum-number-of-people-to-teach/?envType=daily-question&envId=2025-09-10) |
 | 11 sept | sort-vowels-in-a-string | [🔗](https://leetcode.com/problems/sort-vowels-in-a-string/?envType=daily-question&envId=2025-09-11) |
+| 12 sept |vowels-game-in-a-string  | [🔗](https://leetcode.com/problems/vowels-game-in-a-string/?envType=daily-question&envId=2025-09-12) |
