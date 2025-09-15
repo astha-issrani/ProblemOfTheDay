@@ -135,3 +135,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 12 sept | vowels-game-in-a-string  | [🔗](https://leetcode.com/problems/vowels-game-in-a-string/?envType=daily-question&envId=2025-09-12) |
 | 13 sept | find-most-frequent-vowel-and-consonant  | [🔗](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/?envType=daily-question&envId=2025-09-13) |
 | 14 sept | vowel-spellchecker | [🔗](https://leetcode.com/problems/vowel-spellchecker/description/?envType=daily-question&envId=2025-09-14) |
+| 15 sept | maximum-number-of-words-you-can-type | [🔗](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) |
