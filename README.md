@@ -137,3 +137,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 14 sept | vowel-spellchecker | [🔗](https://leetcode.com/problems/vowel-spellchecker/description/?envType=daily-question&envId=2025-09-14) |
 | 15 sept | maximum-number-of-words-you-can-type | [🔗](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=daily-question&envId=2025-09-15) |
 | 17 sept | design-a-food-rating-system | [🔗](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) |
+| 18 sept | design-task-manager | [🔗](https://leetcode.com/problems/design-task-manager/?envType=daily-question&envId=2025-09-18) |
