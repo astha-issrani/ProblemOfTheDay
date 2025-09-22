@@ -139,3 +139,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 17 sept | design-a-food-rating-system | [🔗](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17) |
 | 18 sept | design-task-manager | [🔗](https://leetcode.com/problems/design-task-manager/?envType=daily-question&envId=2025-09-18) |
 | 19 sept | design-spreadsheet | [🔗](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19) |
+| 22 sept | count-elements-with-maximum-frequency | [🔗](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2025-09-22) |
