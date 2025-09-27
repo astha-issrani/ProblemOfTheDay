@@ -142,3 +142,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 22 sept | count-elements-with-maximum-frequency | [🔗](https://leetcode.com/problems/count-elements-with-maximum-frequency/description/?envType=daily-question&envId=2025-09-22) |
 | 25 sept | Triangle | [🔗](https://leetcode.com/problems/triangle/description/?envType=daily-question&envId=2025-09-25) |
 | 26 sept | valid-triangle-number | [🔗](https://leetcode.com/problems/valid-triangle-number/?envType=daily-question&envId=2025-09-26) |
+| 27 sept | largest-triangle-area | [🔗](https://leetcode.com/problems/largest-triangle-area/?envType=daily-question&envId=2025-09-27) |
