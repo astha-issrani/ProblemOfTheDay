@@ -145,3 +145,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 27 sept | largest-triangle-area | [🔗](https://leetcode.com/problems/largest-triangle-area/?envType=daily-question&envId=2025-09-27) |
 | 28 sept | largest-perimeter-triangle | [🔗](https://leetcode.com/problems/largest-perimeter-triangle/?envType=daily-question&envId=2025-09-28) |
 | 01 oct | water bottle | [🔗](https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-01) |
+| 02 oct | water bottle II | [🔗](https://leetcode.com/problems/water-bottles-II/?envType=daily-question&envId=2025-10-02) |
