@@ -147,3 +147,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 01 oct | water bottle | [🔗](https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2025-10-01) |
 | 02 oct | water bottle II | [🔗](https://leetcode.com/problems/water-bottles-II/?envType=daily-question&envId=2025-10-02) |
 | 06 oct | pacific-atlantic-water-flow | [🔗](https://leetcode.com/problems/pacific-atlantic-water-flow/description/?envType=daily-question&envId=2025-10-05) |
+| 09 oct | find-the-minimum-amount-of-time-to-brew-potions | [🔗](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/?envType=daily-question&envId=2025-10-09) |
