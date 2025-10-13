@@ -150,5 +150,5 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 09 oct | find-the-minimum-amount-of-time-to-brew-potions | [🔗](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/?envType=daily-question&envId=2025-10-09) |
 | 10 oct | taking-maximum-energy-from-the-mystic-dungeon | [🔗](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/description/?envType=daily-question&envId=2025-10-10) |
 | 11 oct | maximum-total-damage-with-spell-casting | [🔗](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/description/?envType=daily-question&envId=2025-10-11) |
-| 12 oct |  | [🔗]() |
+| 12 oct | find-sum-of-array-product-of-magical-sequences | [🔗](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/?envType=daily-question&envId=2025-10-12) |
 | 13 oct | find-resultant-array-after-removing-anagrams | [🔗](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2025-10-13) |
