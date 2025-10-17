@@ -153,3 +153,4 @@ Keeping track of my daily LeetCode progress. This helps with consistency and lea
 | 12 oct | find-sum-of-array-product-of-magical-sequences | [🔗](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/?envType=daily-question&envId=2025-10-12) |
 | 13 oct | find-resultant-array-after-removing-anagrams | [🔗](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/?envType=daily-question&envId=2025-10-13) |
 | 15 oct | adjacent-increasing-subarrays-detection-ii | [🔗](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/description/?envType=daily-question&envId=2025-10-15) |
+| 16 oct | maximize-the-number-of-partitions-after-operations | [🔗](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/description/?envType=daily-question&envId=2025-10-17) |
